@@ -1,2 +1,2 @@
 # Learning-Github-Tutorial
-Author: Pawan Kumar
+Author: Pawan Kumar (BIT Sindri)
